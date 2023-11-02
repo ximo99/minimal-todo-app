@@ -1,4 +1,4 @@
-# minimal-todo-app
+# Minimal todo app
 
 ### ENGLISH
 This project is a simple to-do list app built using Expo, from React Native. Allows you to add tasks and mark tasks as completed.
